@@ -11,6 +11,10 @@ npm run dev
 
 Open [http://localhost:3000](http://localhost:3000) in your browser.
 
+## Deployed
+
+Click [https://infoware-weld.vercel.app/]
+
 ## ✨ Features
 
 - **Edit Mode** - Add, edit, delete, and reorder form fields
